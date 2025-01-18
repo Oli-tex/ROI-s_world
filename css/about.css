@@ -131,6 +131,9 @@
   #about-content .property__content {
     margin-bottom: 2rem;
   }
+  #about-content .services__contents {
+    margin-bottom: 2rem;
+  }
 
   #about-content .content .topper {
     font-size: 0.7em;
@@ -362,3 +365,8 @@
 }
 /* Small Desktop */
 /* Large Desktop */
+
+.about__staff,
+.services__why__choose__us {
+  background: #efefef;
+}
